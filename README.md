@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Hemant Khatri
 
-<!--
-**khatrihemant100/khatrihemant100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student | 🌐 Aspiring Software / Application Engineer | 🇯🇵 Based in Japan  
 
-Here are some ideas to get you started:
+Welcome to my GitHub.  
+This profile showcases my **IT skills, projects, and continuous learning journey** as I prepare for a professional IT career in Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 IT student (Graduating in 2026)
+- 🇯🇵 Living and studying in Japan (専門学校)
+- 💡 Interested in software development and application engineering
+- 🌱 Actively improving practical coding and system knowledge
+- 🎯 Goal: Join a Japanese IT company as an Application / Software Engineer
+
+---
+
+## 🔧 Technical Skills
+
+### 💻 Programming
+- HTML, CSS, JavaScript
+- Python (Basic)
+- SQL (Basic)
+
+### 🛠 Tools & Technologies
+- Git & GitHub
+- VS Code
+- Linux (Basic)
+- Database fundamentals
+
+---
+
+## 📂 Projects
+
+| Project | Description |
+|-------|------------|
+| 🌐 Personal Portfolio Website | Simple website to introduce myself and my skills |
+| 📘 Learning Practice | Daily coding practice and experiments |
+| 🗄️ Database Practice | Basic CRUD operations using SQL |
+
+➡️ Please check individual repositories for code, structure, and documentation.
+
+---
+
+## 📌 What I'm Currently Learning
+
+- Backend fundamentals
+- Clean code & best practices
+- System and application design basics
+- Software development workflow using Git
+
+---
+
+## 🇯🇵 Career Focus (Japan)
+
+- Japanese IT work culture & teamwork
+- Writing clean and readable code
+- Understanding requirements and documentation
+- Improving technical Japanese step by step
+
+---
+
+## 🌍 Contact & Links
+
+- 💼 LinkedIn: *(add link)*
+- 📧 Email: *(add email)*
+- 🐙 GitHub: https://github.com/yourusername
+
+---
+
+## 🙇‍♂️ Message to Recruiters
+
+I am highly motivated to learn, improve, and contribute as a software engineer.  
+I value **discipline, communication, and continuous learning**, and I am eager to grow in a professional Japanese work environment.
+
+Thank you for visiting my GitHub.
