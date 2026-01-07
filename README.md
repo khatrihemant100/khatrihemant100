@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Hemant Khatri
+# 👋 Hi, I'm Hemant Khatri  
+### 🇳🇵 नमस्ते, म हेमन्त खत्री हुँ  
+### 🇯🇵 はじめまして、カトリ　ヘマントと申します。 
+### 🇮🇳 नमस्ते, मैं हेमंत खत्री हूँ
 
-💻 IT Student | 🌐 Aspiring Software / Application Engineer | 🇯🇵 Based in Japan  
+💻 IT Student | 🌐 IT Engineer | 🇯🇵 Based in Japan  
 
 Welcome to my GitHub.  
 This profile showcases my **IT skills, projects, and continuous learning journey** as I prepare for a professional IT career in Japan.
@@ -22,13 +25,14 @@ This profile showcases my **IT skills, projects, and continuous learning journey
 ### 💻 Programming
 - HTML, CSS, JavaScript
 - Python (Basic)
-- SQL (Basic)
+- SQL 
 
 ### 🛠 Tools & Technologies
 - Git & GitHub
 - VS Code
 - Linux (Basic)
 - Database fundamentals
+- Unity 
 
 ---
 
@@ -64,10 +68,9 @@ This profile showcases my **IT skills, projects, and continuous learning journey
 
 ## 🌍 Contact & Links
 
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
-- 🐙 GitHub: https://github.com/yourusername
-
+- 💼 LinkedIn: https://www.linkedin.com/in/hemantkhatree/
+- 📧 Email: khatrihemant100@gmail.com
+- 🐙 GitHub: https://github.com/khatrihemant100
 ---
 
 ## 🙇‍♂️ Message to Recruiters
