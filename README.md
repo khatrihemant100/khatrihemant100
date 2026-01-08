@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Hemant Khatri  
-### 🇳🇵 नमस्ते, म हेमन्त खत्री हुँ  
-### 🇯🇵 はじめまして、カトリ　ヘマントと申します。 
+👋 Hi, I'm **Hemant Khatri**  
+🇳🇵 नमस्ते, म हेमन्त खत्री हुँ  
+🇯🇵 はじめまして、カトリ・ヘマントと申します  
 
-💻 IT Student | 🌐 IT Engineer | 🇯🇵 Based in Japan  
+💻 **IT Student | Aspiring IT Engineer**  
+🌐 **Interested in Software, Web & System Development**  
+🇯🇵 **Based in Japan | Preparing for IT career in Japan**
 
-Welcome to my GitHub.  
-This profile showcases my **IT skills, projects, and continuous learning journey** as I prepare for a professional IT career in Japan.
+🚀 Welcome to my GitHub!  
+Here you’ll find my **projects, technical skills, and learning progress**  
+as I continuously work towards becoming a **professional IT Engineer in Japan**.
 
 ---
 
