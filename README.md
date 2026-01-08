@@ -25,14 +25,16 @@ as I continuously work towards becoming a **professional IT Engineer in Japan**.
 ## 🔧 Technical Skills
 
 ### 💻 Programming
+- PHP
 - HTML, CSS, JavaScript
+- c#
 - Python (Basic)
-- SQL 
+- MySQL 
 
 ### 🛠 Tools & Technologies
 - Git & GitHub
 - VS Code
-- Linux (Basic)
+- Linux (CentOS, Ubuntu – Basic)
 - Database fundamentals
 - Unity 
 
@@ -44,7 +46,7 @@ as I continuously work towards becoming a **professional IT Engineer in Japan**.
 |-------|------------|
 | 🌐 Personal Portfolio Website | Simple website to introduce myself and my skills |
 | 📘 Learning Practice | Daily coding practice and experiments |
-| 🗄️ Database Practice | Basic CRUD operations using SQL |
+| 🗄️ Database Practice | MySQL |
 
 ➡️ Please check individual repositories for code, structure, and documentation.
 
@@ -73,6 +75,7 @@ as I continuously work towards becoming a **professional IT Engineer in Japan**.
 - 💼 LinkedIn: https://www.linkedin.com/in/hemantkhatree/
 - 📧 Email: khatrihemant100@gmail.com
 - 🐙 GitHub: https://github.com/khatrihemant100
+- E-mail: khatrihemant100@gmail.com
 ---
 
 ## 🙇‍♂️ Message to Recruiters
