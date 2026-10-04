@@ -306,8 +306,7 @@ A good engineer should be able to:
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatrihemant100&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrihemant100&layout=compact&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatrihemant100&hide_border=false&border_radius=12" />
 </p>
 
 ---
