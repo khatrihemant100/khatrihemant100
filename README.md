@@ -169,7 +169,7 @@ I'm especially interested in understanding **why a system is designed a certain 
 
 # 📦 Selected Projects
 
-## 🧠 BlockToGrow
+## 🧠 Block2Grow
 **Digital Wellbeing / Productivity Application**
 
 A product concept focused on helping users reduce digital distractions and build healthier technology habits.
